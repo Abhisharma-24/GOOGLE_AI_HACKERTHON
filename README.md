@@ -2,6 +2,15 @@
 
 A full-stack application that detects bias in hiring decisions using AI-powered analysis. Built with Next.js (frontend) and FastAPI (backend) with Google's Gemini AI integration.
 
+## 🌐 Live Demo
+
+**🚀 Try it now:**
+- **Frontend**: https://google-ai-hackerthon.vercel.app
+- **Backend API**: https://google-ai-hackerthon.onrender.com
+- **API Docs**: https://google-ai-hackerthon.onrender.com/docs
+
+> ⚠️ Note: Backend is hosted on Render's free tier and may take 30-50 seconds to wake up after inactivity.
+
 ## 🚀 Features
 
 - **CSV Upload & Analysis**: Upload hiring data and get instant bias analysis
