@@ -1,0 +1,21 @@
+Name,Gender,College,CGPA,Skills,Experience,Achievements,Selected
+John Doe,Male,Tier 1,9.2,High,3,Yes,Yes
+Jane Smith,Female,Tier 1,8.8,High,2,Yes,Yes
+Bob Johnson,Male,Tier 2,7.5,Medium,1,No,Yes
+Alice Williams,Female,Tier 2,8.1,High,2,Yes,Yes
+Charlie Brown,Male,Tier 3,6.8,Low,0,No,No
+Diana Prince,Female,Tier 1,9.0,High,3,Yes,Yes
+Eve Davis,Male,Tier 2,7.2,Medium,1,No,No
+Frank Miller,Male,Tier 3,6.5,Low,0,No,No
+Grace Lee,Female,Tier 1,8.5,High,2,Yes,Yes
+Henry Wilson,Male,Tier 2,7.8,Medium,1,Yes,Yes
+Ivy Chen,Female,Tier 1,9.1,High,3,Yes,Yes
+Jack Taylor,Male,Tier 3,6.9,Low,0,No,No
+Kate Anderson,Female,Tier 2,8.0,High,2,Yes,Yes
+Liam Thomas,Male,Tier 1,8.7,High,2,Yes,Yes
+Mia Jackson,Female,Tier 3,7.0,Medium,1,No,Yes
+Noah White,Male,Tier 2,7.6,Medium,1,No,No
+Olivia Harris,Female,Tier 1,9.3,High,3,Yes,Yes
+Paul Martin,Male,Tier 3,6.7,Low,0,No,No
+Quinn Garcia,Female,Tier 2,8.2,High,2,Yes,Yes
+Ryan Martinez,Male,Tier 1,8.9,High,3,Yes,Yes
